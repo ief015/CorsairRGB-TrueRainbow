@@ -3,6 +3,8 @@ CorsairRGB True Rainbow
 
 You want a rainbow on your Corsair RGB keyboard? Of course you do! Just download, launch, and modify the rainbow to your liking.
 
+![](https://raw.githubusercontent.com/ief015/CorsairRGB-TrueRainbow/master/truerainbow.png)
+
 This application is only available for Windows x86: [Download Here](https://github.com/ief015/CorsairRGB-TrueRainbow/blob/master/build/jan-13-2015/truerainbow.zip)
 
 READ THIS FIRST
